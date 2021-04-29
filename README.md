@@ -82,4 +82,4 @@ Tag.belongsToMany(Product, {
 
 [repo](https://github.com/SerenaChandler/E-commerceBackEnd)
 
-[demp](https://www.youtube.com/watch?v=9MRtR7mrOjk)
+[demo](https://www.youtube.com/watch?v=9MRtR7mrOjk)
